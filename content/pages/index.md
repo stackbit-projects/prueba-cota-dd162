@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Bienvenido '
+    title: Cota
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
