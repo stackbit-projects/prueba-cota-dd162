@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cota
-    subtitle: Optional hero section subtitle
+    subtitle: Joven Diamante
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
