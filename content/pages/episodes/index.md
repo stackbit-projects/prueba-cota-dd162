@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: Sé parte de la lista VIP de Cota
+    title: Se parte de la lista VIP de Cota
     title_align: center
     content_align: center
     form_position: bottom
