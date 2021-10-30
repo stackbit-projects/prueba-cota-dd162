@@ -40,7 +40,7 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-    submit_label: ¡Quiero ser parte!
+    submit_label: ¡Quiero Ser parte!
     padding_top: medium
     padding_bottom: medium
     has_border: true
