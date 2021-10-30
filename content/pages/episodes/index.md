@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Canciones
-    subtitle: List of episodes in order
+    subtitle: Aquí encontrarás todas las canciones que he creado.
     align: center
     padding_top: medium
     padding_bottom: small
